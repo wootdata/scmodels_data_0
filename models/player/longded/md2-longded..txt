@@ -1,0 +1,42 @@
+<3/24/01>
+================================================================
+Model Name              : <Longded>
+installation directory  :/<valve/models/player/longded>
+Author                  : <UncleWalter>
+Skin Author : <UncleWalter>  
+Email Address           : <UncleWalter@wi.rr.com>
+
+Model description       : <Dead Sheriff of an old west town>
+
+
+Other info              :Halflife model with three custom animations >
+
+Additional Credits to   : <N/A >
+
+Thanks to               : <N/A>
+================================================================
+* Play Information *
+
+New Sounds              : <NO>
+CTF Skins               : <NO>
+VWEP Support            : <NO>
+
+
+* Construction *
+Poly Count              : <827 polys>
+Vert Count              : <453 Verts>
+Skin Count              : <3 Skins>
+Base                    : <New model >
+Editor used             : <N/A>
+Known Bugs              : <No known bugs>
+Build/Animation time    : <From Jan 2 to March 21 01>
+
+
+* How to use this model *
+
+<INSTALLATION INFO>Create new folder in your Valve/models/player folder called longded. unzip to that folder and play away.
+
+ 
+
+
+
