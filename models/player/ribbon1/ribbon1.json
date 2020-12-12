@@ -1,1 +1,1 @@
-{"tri_count": "3449", "events": [{"frame": "1", "file": "voice/girl/coverme.wav", "seq": "172"}], "seq_groups": 1}
+{"seq_groups": 1, "events": [{"frame": "1", "seq": "172", "file": "voice/girl/coverme.wav"}], "tri_count": "3449", "hash": "382c175b1d4b43012831f0e6558f00ec"}
