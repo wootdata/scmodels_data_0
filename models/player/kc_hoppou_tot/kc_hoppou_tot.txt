@@ -1,0 +1,14 @@
+____________________________________________________________
+
+KC_hoppou_tot.mdl
+
+Original model from VRChat by Mogo Tol.
+
+Conversion for Sven Co-op by Tosic Nunja, 
+Model uses skeleton & custom animations of kc_northern_v3.
+
+Programs used : UnityRipper, Unity3D, Blender, GIMP, Crowbar.
+
+Special thanks to Imanobody & TwilightZone modders for help.
+
+_____________________________________________________________
