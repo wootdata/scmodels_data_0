@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "6a5f82ece4fe0a79af986159066eee56",
-	"name": "selene_nocape.mdl",
+	"md5": "13963250706050a47a754e7028e4ad1a",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -337,7 +337,7 @@
 		}, 
 		{
 			"fps": 22.000000,
-			"frames": 31,
+			"frames": 30,
 			"name": "crawl"
 		}, 
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1497648,
+	"size": 1497348,
 	"skeleton": [
 		{
 			"name": "Bip01",

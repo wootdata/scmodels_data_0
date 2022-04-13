@@ -146,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,34 +301,34 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "e4c52956a916fc9719a0d0be7b285b72",
-	"name": "Hunk.mdl",
+	"md5": "f42d9cbf5ed0bc3b41f8808f7daab79e",
+	"name": "hunk.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
-			"fps": 14.000000,
-			"frames": 31,
+			"fps": 12.000000,
+			"frames": 41,
 			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 31,
+			"frames": 41,
 			"name": "idle"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 41,
 			"name": "deep_idle"
 		}, 
 		{
-			"fps": 40.000000,
+			"fps": 60.000000,
 			"frames": 25,
-			"name": "run"
+			"name": "run2"
 		}, 
 		{
-			"fps": 20.000000,
+			"fps": 15.000000,
 			"frames": 17,
-			"name": "walk"
+			"name": "walk2handed"
 		}, 
 		{
 			"fps": 20.000000,
@@ -352,7 +352,7 @@
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 37,
+			"frames": 36,
 			"name": "long_jump"
 		}, 
 		{
@@ -367,27 +367,27 @@
 		}, 
 		{
 			"fps": 22.000000,
-			"frames": 19,
+			"frames": 51,
 			"name": "die_simple"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 25,
+			"frames": 42,
 			"name": "die_backwards1"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 36,
+			"frames": 42,
 			"name": "die_backwards"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 19,
+			"frames": 51,
 			"name": "die_forwards"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 28,
+			"frames": 108,
 			"name": "headshot"
 		}, 
 		{
@@ -397,7 +397,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 38,
+			"frames": 42,
 			"name": "gutshot"
 		}, 
 		{
@@ -1214,54 +1214,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 71,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 1172516,
+	"size": 1126316,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1357,15 +1312,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
+			"height": 505,
 			"name": "SAS_body.bmp",
-			"width": 512
+			"width": 500
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
+			"height": 250,
 			"name": "SAS_head.bmp",
-			"width": 256
+			"width": 248
 		}, 
 		{
 			"flags": 3,
