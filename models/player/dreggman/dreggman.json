@@ -27,7 +27,7 @@
 				{
 					"name": "DrEggman",
 					"polys": 3721,
-					"verts": 1958
+					"verts": 1951
 				}
 			],
 			"name": "body"
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "584933b1e825caf75d717629da239e5c",
-	"name": "C:\\Users\\Seryus\\Desktop\\Dr Eggman\\DrEggman.mdl",
+	"md5": "1b2e6c703819c3651d7a6a97189998a9",
+	"name": "DrEggman.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1261,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1025876,
+	"size": 1025868,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1368,16 +1368,16 @@
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 1,
+			"flags": 0,
 			"height": 256,
 			"name": "Eggman.bmp",
 			"width": 256
 		}, 
 		{
-			"flags": 32,
-			"height": 1,
+			"flags": 0,
+			"height": 8,
 			"name": "default.bmp",
-			"width": 4
+			"width": 8
 		}
 	],
 	"version": 10
