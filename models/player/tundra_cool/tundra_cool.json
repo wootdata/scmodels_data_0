@@ -43,6 +43,7 @@
 			"name": "cool"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "78a38bda3a361dcb5dd30ff091528cd1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tundra_cool.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

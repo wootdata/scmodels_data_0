@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "58d2614eb74e7b7d67ed3f8a2cbcbf54",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "spec_ops_elite_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

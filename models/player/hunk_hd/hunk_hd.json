@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -431,7 +432,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cc8d54e6a6b97bd96baf25d3a7b71af8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\APOCALIPSIS\\Escritorio\\models\\En Proce",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

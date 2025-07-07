@@ -133,6 +133,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -403,7 +404,11 @@
 	],
 	"id": 1414743113,
 	"md5": "11b4e514e0863c14b95cc3783ec94cef",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DS2_issac.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

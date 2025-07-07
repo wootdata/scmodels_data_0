@@ -73,6 +73,7 @@
 			"name": "CyborgNinja"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "881ca0cffa1dcc7c81bb58b18a1623bd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\half life modif\\gorden\\CyborgNinja.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

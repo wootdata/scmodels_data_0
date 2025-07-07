@@ -53,6 +53,7 @@
 			"name": "legs"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8eb9d75e4c99e3295b6fe2b5936cb3e0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "compiled/afterlife_krauser.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

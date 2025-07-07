@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -383,7 +384,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6a1bb071cd60f0ca72eea1901d0dc2cd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_kazami_yuuka_1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

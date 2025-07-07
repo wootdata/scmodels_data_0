@@ -28,6 +28,7 @@
 			"name": "barney_ref"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1342a79fe77e66a09338b16b4875cb36",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "STARS_Black.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

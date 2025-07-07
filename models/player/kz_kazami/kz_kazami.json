@@ -53,6 +53,7 @@
 			"name": "GatiitoSC"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -386,7 +387,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cc1dfc619cfd3ac5736d9cb3bf3404d1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Kazami.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

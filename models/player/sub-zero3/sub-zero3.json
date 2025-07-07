@@ -43,6 +43,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0eea88cf40be0ffeb27e532c335e0d1b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Sub-zero3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

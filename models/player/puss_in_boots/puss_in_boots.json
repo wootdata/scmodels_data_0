@@ -63,6 +63,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d477d6deb4fe6506cc6b21185e10696c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Puss_in_boots.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

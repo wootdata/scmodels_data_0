@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -383,7 +384,11 @@
 	],
 	"id": 1414743113,
 	"md5": "38a4d885ff9a80237538041155b74862",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Gundam_Rx-78.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

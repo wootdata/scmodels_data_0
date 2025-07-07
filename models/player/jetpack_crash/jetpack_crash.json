@@ -33,6 +33,7 @@
 			"name": "Jetpack_Crash"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -366,7 +367,11 @@
 	],
 	"id": 1414743113,
 	"md5": "afbd19f6dd0192cc636cf16f5d825ea7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Jetpack_Crash.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

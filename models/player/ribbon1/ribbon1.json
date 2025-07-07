@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -305,7 +306,11 @@
 	],
 	"id": 1414743113,
 	"md5": "382c175b1d4b43012831f0e6558f00ec",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Ribbon3.0.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "tundra_cool"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "61a98248af98f776fe041e572a560e7b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tablesalt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

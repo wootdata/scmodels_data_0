@@ -62,6 +62,7 @@
 			"name": "wrappers"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1592888373,
 	"events": [
@@ -299,7 +300,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d35607345d01ac4bea5a02f630e14a62",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "pickle-rick_sc.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

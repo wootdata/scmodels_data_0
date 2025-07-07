@@ -48,6 +48,7 @@
 			"name": "nvg"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1265565900,
 	"events": [
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e93c49b0fcbaaea0d6e71de6e971319",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nato-Rangeblue.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

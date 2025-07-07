@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -712,7 +713,11 @@
 	],
 	"id": 1414743113,
 	"md5": "412e89eaa2987e9810f05c723cdc7b8c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ba_azusa.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

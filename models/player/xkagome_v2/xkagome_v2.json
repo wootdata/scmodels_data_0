@@ -78,6 +78,7 @@
 			"name": "head_detail"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 6,
@@ -404,7 +405,11 @@
 	],
 	"id": 1414743113,
 	"md5": "132706115b52d00bd3ef6fb79d45172f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "XKagome.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

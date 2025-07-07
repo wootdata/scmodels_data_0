@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -331,7 +332,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8f7f3f1ac543362997beb1cb8cdc2ef8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tallgeese3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

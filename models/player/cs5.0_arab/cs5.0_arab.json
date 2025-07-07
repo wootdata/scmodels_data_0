@@ -48,6 +48,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a782e42d30b64f2da28c4d262a0e9807",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cs5.0_arab.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

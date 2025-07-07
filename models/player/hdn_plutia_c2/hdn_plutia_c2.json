@@ -72,6 +72,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -420,7 +421,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b5e4816f900afca466ca879e6d9f4013",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Plutia_c2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

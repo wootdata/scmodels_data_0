@@ -93,6 +93,7 @@
 			"name": "ribon"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0c21447b9dae2ee0c0fd84d9fac3e7a6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_aya.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2ecf4d9bd8ab98cdf493af6340991831",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "PEPimimi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

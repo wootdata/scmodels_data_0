@@ -53,6 +53,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -331,7 +332,11 @@
 	],
 	"id": 1414743113,
 	"md5": "096e1bb08809427d12ce443ae754643e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "guizi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "89f09fb1485cc18f7b0315942cdff56b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:/game/halflife/valve/models/player/tsugumi/tsugumi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

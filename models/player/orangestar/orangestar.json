@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -331,7 +332,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a39e673b90df1363bbc1154993c06b06",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Orangestar.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

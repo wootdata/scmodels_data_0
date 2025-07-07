@@ -163,6 +163,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -828,7 +829,11 @@
 	],
 	"id": 1414743113,
 	"md5": "60d190e3b5b408c12cdb7ccfa370b46c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Barbara.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

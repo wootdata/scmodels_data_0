@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0c941d7b0b448972ffddc7f047b79642",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "strooper_mp.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

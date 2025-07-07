@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -551,7 +552,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ed0cd082da4a33ef71dbdd3f0a195d48",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SmashD003B.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

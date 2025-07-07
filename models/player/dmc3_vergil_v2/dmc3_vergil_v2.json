@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3c5a2d760d8b7dc54d5c5250598eb009",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DMC3_Vergil.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

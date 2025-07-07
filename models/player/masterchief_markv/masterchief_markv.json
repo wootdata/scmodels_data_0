@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1688346375,
 	"events": [
@@ -260,7 +261,11 @@
 	],
 	"id": 1414743113,
 	"md5": "453f903b5e7cd284c2250276efb33030",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "urban.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

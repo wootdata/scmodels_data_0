@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d257b42b37dc173f0f5ad17b87fbc1ad",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_kaguya.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

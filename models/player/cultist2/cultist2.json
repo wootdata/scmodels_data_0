@@ -43,6 +43,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "efc185b3d40591d7322b1cfb3f402f7b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cultist2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

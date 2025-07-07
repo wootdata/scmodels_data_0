@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 3,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "394386b54117999adead814b3b772f67",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AmongUs_Crewmate.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

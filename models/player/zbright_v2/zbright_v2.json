@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 48,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b57e2af1df9f2e3013facf3575dc82e9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Zbright.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

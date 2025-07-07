@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1269961908,
 	"events": [
@@ -249,7 +250,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5ed0085c824d6d83eb9464dffddd62dd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Starcraft_Medic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

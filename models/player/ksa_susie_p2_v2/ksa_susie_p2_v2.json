@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -712,7 +713,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6be7b69f0c041670e75436a0ca14dbd2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Susie_P2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

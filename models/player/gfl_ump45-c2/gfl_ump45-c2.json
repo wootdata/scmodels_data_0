@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -758,7 +759,11 @@
 	],
 	"id": 1414743113,
 	"md5": "644f2e376a80c8d52bb3b1cae7eef6b0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GFL_UMP45-c2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

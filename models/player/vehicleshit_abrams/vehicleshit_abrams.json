@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 1,
@@ -47,7 +48,11 @@
 	"events": [],
 	"id": 1414743113,
 	"md5": "4df6023851e0fb33e0d4d8699b53c863",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Projekte\\brainbread\\mapobjects\\m1a1\\compile\\m1a1.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

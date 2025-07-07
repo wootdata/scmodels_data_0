@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a9e1cc7f7a4b27d34785acf79391f9aa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "LimpBizkit_Rulz.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -233,6 +233,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -882,7 +883,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1f7e4d252561a3f5e584021422382880",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KZ_Rindo_SWC.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

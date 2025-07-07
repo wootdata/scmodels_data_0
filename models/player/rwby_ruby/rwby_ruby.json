@@ -143,6 +143,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -413,7 +414,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ff3481730d1fa21d3ad3893d7c9e12a9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RWBY_Ruby.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
