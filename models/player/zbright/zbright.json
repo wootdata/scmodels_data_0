@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 984588250,
+	"date": 1780811463,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "4ab8c28054074aa2a0451545ad69a6a1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "c:/game/halflife/valve/models/player/ccsakura/ccsakura.mdl",
 	"preview": true,
 	"readme": false,

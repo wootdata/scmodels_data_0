@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1097638976,
+	"date": 1780811463,
 	"events": [
 		{
 			"event": 2001,
@@ -250,6 +250,7 @@
 	"md5": "10128e0230ee927504c73c0be8e59107",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "demo2.mdl",
 	"preview": false,
 	"readme": false,

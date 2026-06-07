@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1286759922,
+	"date": 1780811463,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "2e0301ec028c39116a2d0a67d4770724",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "klon.mdl",
 	"preview": true,
 	"readme": false,

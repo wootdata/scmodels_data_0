@@ -102,7 +102,7 @@
 			"type": 8
 		}
 	],
-	"date": 1702155516,
+	"date": 1780811463,
 	"events": [
 		{
 			"event": 5004,
@@ -774,6 +774,7 @@
 	"md5": "2c666137a25984c9fb3c5e252556f260",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "vtuber_kizuna_ld.mdl",
 	"preview": true,
 	"readme": false,
